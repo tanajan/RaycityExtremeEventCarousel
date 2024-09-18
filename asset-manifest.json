@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RaycityExtremeEventCarousel/static/css/main.e6c13ad2.css",
+    "main.js": "/RaycityExtremeEventCarousel/static/js/main.e7f94f03.js",
+    "static/js/453.112b3c42.chunk.js": "/RaycityExtremeEventCarousel/static/js/453.112b3c42.chunk.js",
+    "static/media/Topup500.png": "/RaycityExtremeEventCarousel/static/media/Topup500.62a200950fab1142e852.png",
+    "static/media/Topup4000.png": "/RaycityExtremeEventCarousel/static/media/Topup4000.d92d942ac78b421f85c9.png",
+    "static/media/Topup8500.png": "/RaycityExtremeEventCarousel/static/media/Topup8500.e007f43e8d70f007e308.png",
+    "static/media/Topup6000.png": "/RaycityExtremeEventCarousel/static/media/Topup6000.529e32d1b868804fa371.png",
+    "static/media/Event_EXRC.png": "/RaycityExtremeEventCarousel/static/media/Event_EXRC.a39eb2fda2451fba4e61.png",
+    "static/media/JE98.png": "/RaycityExtremeEventCarousel/static/media/JE98.937f34c724f1c08ce301.png",
+    "static/media/Topup1500.png": "/RaycityExtremeEventCarousel/static/media/Topup1500.21a23b0de39fb8bd4dea.png",
+    "static/media/Topup1000.png": "/RaycityExtremeEventCarousel/static/media/Topup1000.06007de895e04d4f3936.png",
+    "static/media/SPOILER_KOTSV.jpg": "/RaycityExtremeEventCarousel/static/media/SPOILER_KOTSV.136c725f6121b5cc2719.jpg",
+    "index.html": "/RaycityExtremeEventCarousel/index.html",
+    "main.e6c13ad2.css.map": "/RaycityExtremeEventCarousel/static/css/main.e6c13ad2.css.map",
+    "main.e7f94f03.js.map": "/RaycityExtremeEventCarousel/static/js/main.e7f94f03.js.map",
+    "453.112b3c42.chunk.js.map": "/RaycityExtremeEventCarousel/static/js/453.112b3c42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e7f94f03.js"
+  ]
+}
